@@ -77,10 +77,18 @@ body {
     font-size: 20px;
     margin: 20px 0px 0px 0px;
 }
+.back_effect{
+    overflow: hidden;
+}
 
 .back_effect img{
     border: 0.0625rem solid rgba(220,224,229,0.6);
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    transform: scale(0.9);
+    transition: 1s;;
+}
+.back_effect img:hover{
+    transform: scale(1.0);
 }
 .middle_color{
     background-color: #F8F9FA;
