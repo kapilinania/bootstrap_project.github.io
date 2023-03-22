@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.section_main{
+    color: #1f194c;
+    font-weight: 700;
+    font-family: sans-serif;
+    font-size: 40px;
+}
+
+.Demo{
+    font-weight: 700;
+    font-size: 20px;
+    margin: 20px 0px 0px 0px;
+}
+
+.back_effect img{
+    border: 0.0625rem solid rgba(220,224,229,0.6);
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.middle_color{
+    background-color: #F8F9FA;
+}
+.middle_color1{
+    background-color: #292dc2;;
+}
+.footer_buty{
+    color: white;
+    font-weight: 500;
+    font-size: 30px;
+}
+.footer_second{
+    color: white;
+    font-size: 18px;
+}
+.download_btn{
+    padding: 15px;
+    background-color: #06df9e;
+    font-weight: 500;
+    font-size: 20px;
+}
